@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.202
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yun.Tools.Core", "src\Yun.Tools\Yun.Tools.Core.csproj", "{9DA31EAC-3D1C-4E12-8CD6-0B9088AD84A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yun.Tools.Core", "src\Yun.Tools.Core\Yun.Tools.Core.csproj", "{9DA31EAC-3D1C-4E12-8CD6-0B9088AD84A0}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yun.Tools.Core.UnitTests", "src\Yun.Tools.Core.UnitTests\Yun.Tools.Core.UnitTests.csproj", "{F36E9051-A2A1-4DF3-AA22-CE5590C8DCC1}"
 EndProject

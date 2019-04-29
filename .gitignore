@@ -338,3 +338,6 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/src/Yun.Tools.Core/Yun.Tools.Core.nuspec
+/src/Yun.Tools.Core/Yun.Tools.Core.csproj
+/src/Yun.Tools.Core/nuget.exe
